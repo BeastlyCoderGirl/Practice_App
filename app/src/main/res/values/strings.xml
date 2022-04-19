@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HokageAppDatabase</string>
+
+    <string-array name="options">
+        <item>Hokages</item>
+        <item>Shinobi</item>
+        <item>Summining Animals</item>
+    </string-array>
+</resources>
